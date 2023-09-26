@@ -1,0 +1,22 @@
+header h1{
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+h1{
+    font-family: 'Grenze Gotisch', cursive;
+    font-weight: bold;
+}
+
+.card-img-top {
+    height: 400px; 
+    object-fit: cover;
+}
+
+#btn-topo{
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 20px;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    background-color: #ffffff4d; 
+}
